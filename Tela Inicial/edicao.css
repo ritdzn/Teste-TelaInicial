@@ -1,0 +1,20 @@
+.design{
+    text-align: center;
+    background-color: rgb(0, 119, 255);
+}
+
+.titulo__design{
+    padding-top: 0.5em;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: white;
+}
+
+.aplicativos__videos{
+    padding: 1em;
+}
+
+.logo__premiere{
+    margin-left: 1em;
+}

@@ -1,0 +1,50 @@
+@import url(banner.css);
+@import url(conteudo.css);
+@import url(edicao.css);
+@import url(rodape.css);
+
+.cabecalho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    background-color: black;
+}
+
+.nome__topo--negrito{
+    font-weight: 700;
+    color: #1E90FF;
+}
+
+.nome__topo{
+    font-size: 28px;
+    font-family: 'Poppins', sans-serif;
+    padding: 1em 1em;
+    color: white;
+}
+
+.lista-menu{
+    display: flex;
+
+}
+
+.lista-menu__titulo{
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    margin: 1em;
+    color: #1E90FF;
+}
+
+.lista-menu__link{
+    text-decoration: none;
+    color: white;
+    background-color: #1E90FF;
+    padding: 0.5em;
+    border-radius: 4px;
+}
+
+.lista-menu__link:hover{
+    background-color: white;
+    color: black;
+}
+

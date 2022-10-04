@@ -1,0 +1,70 @@
+.banner{
+    background-color: #0c66dbda;
+    text-align: center;
+}
+
+.banner__titulo{
+    color: white;
+    font-size: 24px;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 0.5em;
+    font-weight: 700;
+}
+
+
+.banner__texto{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 0.5em;
+    font-weight: 500;
+}
+
+.rit{
+    font-weight: 700;
+    color: black;
+}
+
+.banner__titulo--secundario{
+    color: black;
+    font-size: 25px;
+    margin-top: 1em;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 5;
+    background-color: white;
+    display: inline-block;
+    padding: 0.5em;
+    border-radius: 8em;
+}
+
+.contato{
+    padding-top: 1em;
+}
+
+.lista-contato{
+    padding: 1em;
+}
+
+.lista-contato__link--WPP{
+    text-decoration: none;
+    font-size: 18px;
+    background-color: #00e5f5;
+    border-radius: 8px;
+    padding: 0.2em 0.4em;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+.lista-contato__link--e-mail{
+    text-decoration: none;
+    font-size: 18px;
+    background-color:#0059ff;
+    border-radius: 8px;
+    padding: 0.2em 1.1em;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+
+
